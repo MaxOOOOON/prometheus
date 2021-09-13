@@ -6,7 +6,7 @@
 ---
 Тестовый стенд запущен в докере: 
 
- 
+![](https://github.com/MaxOOOOON/prometheus/blob/main/Screenshot%202021-09-13%20215944.png)
 prometheus
 
     docker run -d -p 9090:9090 --name prometh prom/prometheus
@@ -35,3 +35,4 @@ grafana
     docker restart prometh
 
 Дашборд:
+![](https://github.com/MaxOOOOON/prometheus/blob/main/Screenshot%202021-09-14%20003908.png)
